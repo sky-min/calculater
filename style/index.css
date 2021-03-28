@@ -14,5 +14,5 @@ input {
 }
 input:focus {
   outline: none;
-  color: white;
+  color: black;
 }
