@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Jua&display=swap');
+
+body {
+  background-color: black;
+  font-family: Jua;
+}
+table {
+  border-collapse: collapse;
+  border-width: 3px;
+  width:60%;
+  height: 80%;
+  margin: auto;
+  font-size: 25px;
+}
+td {
+  padding: 5px 10px;
+  text-align: center;
+  color: white;
+}
+input {
+  text-align: right;
+  border: none;
+  background-color: black;
+  color: white;
+  font-size: 30px;
+}
+input:focus {
+  outline: none;
+  color: white;
+}
