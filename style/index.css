@@ -4,6 +4,7 @@ table {
 td {
   padding: 5px 10px;
   text-align: center;
+  color: hsl(192,0%,0%);
 }
 input {
   text-align: right;
