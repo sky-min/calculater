@@ -10,9 +10,9 @@ td {
 input {
   text-align: right;
   border: none;
-  color: black;
+  color: white;
 }
 input:focus {
   outline: none;
-  color: black;
+  color: white;
 }
