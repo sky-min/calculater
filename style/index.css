@@ -1,18 +1,14 @@
 table {
   border-collapse: collapse;
-  color: black;
 }
 td {
   padding: 5px 10px;
   text-align: center;
-  color: white;
 }
 input {
   text-align: right;
   border: none;
-  color: black;
 }
 input:focus {
   outline: none;
-  color: white;
 }
