@@ -7,8 +7,8 @@ body {
 table {
   border-collapse: collapse;
   border-width: 10px;
-  width: 80%;
-  height: 90%;
+  width: 90%;
+  height: 80%;
   margin: auto;
   font-size: 25px;
 }
