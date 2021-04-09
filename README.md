@@ -2,7 +2,7 @@
 계산기 사이트 만들기!
 
 앱으로도 만들 예정입니다!
-https://github.com/sky-min
+https://sky-min.github.io/calculater/
 
 ![20210329_002421](https://user-images.githubusercontent.com/81374952/112757593-5d64aa00-9025-11eb-8523-ed92f7051d16.jpg)
 
