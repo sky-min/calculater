@@ -8,8 +8,8 @@ body {
 table {
   border-collapse: collapse;
   border-width: 10px;
-  width: 40%;
-  height: 70%;
+  width: 80%;
+  height: 90%;
   margin: auto;
   font-size: 25px;
 }
@@ -28,4 +28,5 @@ input {
 input:focus {
   outline: none;
   color: white;
+  width: 80
 }
