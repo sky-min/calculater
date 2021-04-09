@@ -24,9 +24,9 @@ input {
   background-color: black;
   color: white;
   font-size: 30px;
+  width: 80%;
 }
 input:focus {
   outline: none;
   color: white;
-  width: 80
 }
