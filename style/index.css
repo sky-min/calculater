@@ -8,7 +8,7 @@ body {
 table {
   border-collapse: collapse;
   border-width: 10px;
-  width: 90%;
+  width: 100%;
   height: 100%;
   margin: auto;
   font-size: 25px;
@@ -24,7 +24,7 @@ input {
   background-color: black;
   color: white;
   font-size: 30px;
-  width: 90%;
+  width: 99%;
 }
 input:focus {
   outline: none;
