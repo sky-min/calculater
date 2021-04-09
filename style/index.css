@@ -6,9 +6,9 @@ body {
 }
 table {
   border-collapse: collapse;
-  border-width: 3px;
-  width:60%;
-  height: 80%;
+  border-width: 5px;
+  width:80%;
+  height: 100%;
   margin: auto;
   font-size: 25px;
 }
