@@ -18,31 +18,33 @@
             </td>
         </tr>
         <tr>
-            <td colspan="3" onclick="reset()">AC</td>
-            <td onclick="add('/')">÷</td>
+            <td colspan="2" onclick="reset()" style="color: rgb(250,114,114);">AC</td>
+            <td colspan="1" onclick="back()" style="color: rgb(148,253,167); font-size: 21px; padding: 1px;"><b>←</b></td>
+            <td onclick="onResult()" style="color: rgb(148,253,167)">=</td>
+            
         </tr>
         <tr>
             <td onclick="add('7')">7</td>
             <td onclick="add('8')">8</td>
             <td onclick="add('9')">9</td>
-            <td onclick="add('*')">×</td>
+            <td onclick="add('/')" style="color: rgb(255,215,104)">÷</td>
         </tr>
         <tr>
             <td onclick="add('4')">4</td>
             <td onclick="add('5')">5</td>
             <td onclick="add('6')">6</td>
-            <td onclick="add('-')">-</td>
+            <td onclick="add('*')" style="color: rgb(255,215,104)">×</td>
         </tr>
         <tr>
             <td onclick="add('1')">1</td>
             <td onclick="add('2')">2</td>
             <td onclick="add('3')">3</td>
-            <td onclick="add('+')">+</td>
+            <td onclick="add('+')" style="color: rgb(255,215,104)">+</td>
         </tr>
         <tr>
             <td colspan="2" onclick="add('0')">0</td>
             <td onclick="add('.')">.</td>
-            <td onclick="onResult()">=</td>
+            <td onclick="add('-')" style="color: rgb(255,215,104)">-</td>
         </tr>
     </table>
     <script type="text/javascript" src="js/calculator.js"></script>
