@@ -17,5 +17,10 @@ function reset() {
     document.getElementById('result').value = "";
 }
 
+function back(){
+  var exp = document.getElementById('display').value;
+  document.getElementById('display').value = exp.substring(0,exp.length - 1);
+}
+
 oEle1.readOnly = true ;
 oEle2.readOnly = true ;
